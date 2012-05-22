@@ -1,5 +1,5 @@
 <?php
-
+  error_reporting(E_NONE);
   /* -----------------------------------
   	Script: 	Alfred all the memes
   	Author: 	Claas Lange
@@ -18,7 +18,7 @@
       return;
     }
     // create date from timestamp
-    $copy = date("c",$q);
+    $copy = trim(date("c",$q));
   }
   else
   {
