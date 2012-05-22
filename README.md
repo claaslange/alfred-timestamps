@@ -23,6 +23,8 @@ to get the current timestamp. Growl will display a notification and the timestam
 
 If you type
 
-```timestamp 1333231200```
+```
+timestamp 1333231200
+```
 
 Growl will display the date and copy it to your pasteboard.

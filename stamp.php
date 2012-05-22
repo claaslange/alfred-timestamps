@@ -18,15 +18,14 @@
       return;
     }
     // create date from timestamp
-    $copy = date("c",$q)
-
-    echo "";
+    $copy = date("c",$q);
   }
   else
   {
     $copy = time();
   }
 
+  echo $copy;
   $var = "echo ".$copy." | pbcopy";
   shell_exec($var);
 
