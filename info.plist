@@ -31,7 +31,7 @@ php -f stamp.php -- "{query}"</string>
 	<key>logging</key>
 	<true/>
 	<key>parameter</key>
-	<integer>3</integer>
+	<integer>2</integer>
 	<key>silent</key>
 	<true/>
 	<key>subtitle</key>

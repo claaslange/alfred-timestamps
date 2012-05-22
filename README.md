@@ -15,7 +15,9 @@ git clone git://github.com/claaslange/alfred-timestamps.git
 
 Open the Alfred search bar and type
 
-```timestamp```
+```
+timestamp
+```
 
 to get the current timestamp. Growl will display a notification and the timestamp is copied to your pasteboard.
 
